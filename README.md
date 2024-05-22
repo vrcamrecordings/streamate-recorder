@@ -23,7 +23,7 @@ CaptureGem can be [found here](https://www.capturegem.com).
 The app automatically generates thumbnail grids for all your recordings so you can quickly preview the content. In the Review Tab, you can see these. Additionally, you can
 filter your saved recordings by model and watch past recordings.
 
-<img width="500" src="https://github.com/vrcamrecordings/Streamate-recorder/assets/155075920/566aa9f0-45be-458b-89b1-450dad8d4e7a" alt="Streamate Recording Review Feature">
+<img width="500" src="https://github.com/vrcamrecordings/Streamate-recorder/assets/155075920/c69d6a34-5c36-4259-9056-493859feeb8d" alt="Streamate Recording Review Feature">
 
 ## Further Details
 
